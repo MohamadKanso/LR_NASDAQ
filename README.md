@@ -2,6 +2,18 @@
 
 This contains a Linear Regression trading model for predicting NASDAQ  movements and executing a strategy aimed at outperforming the market. Key performance metrics include annual return, Sharpe ratio, maximum drawdown, and volatility.
 
+## Libraries Used
+
+This project uses the following libraries:
+
+- ![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg)
+- ![NumPy](https://numpy.org/doc/stable/_static/numpylogo.svg)
+- ![Matplotlib](https://matplotlib.org/_static/logo2_compressed.svg)
+- ![Scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
+- ![Seaborn](https://seaborn.pydata.org/_images/logo-wide-lightbg.svg) *(optional for visualisation)*
+
+
+
 ## Features
 
 - **Data Preparation**: Processes NASDAQ historical data, including handling missing values and normalisation.

@@ -1,6 +1,6 @@
 # NASDAQ Linear Regression Trading Model
 
-This repository contains a Linear Regression (LR) trading model for predicting NASDAQ stock movements and executing a strategy aimed at outperforming the market. Key performance metrics include annual return, Sharpe ratio, maximum drawdown, and volatility.
+This contains a Linear Regression trading model for predicting NASDAQ  movements and executing a strategy aimed at outperforming the market. Key performance metrics include annual return, Sharpe ratio, maximum drawdown, and volatility.
 
 ## Features
 
@@ -11,7 +11,7 @@ This repository contains a Linear Regression (LR) trading model for predicting N
 
 ## Results
 
-The model achieves an annual return of 18.86% with a Sharpe ratio of 0.92. However, it shows a significant drawdown of 186.77%, highlighting sensitivity to volatile periods.
+The model achieves an annual return of 18.86% with a Sharpe ratio of 0.92. __However, it shows a significant drawdown of 186.77%__, highlighting sensitivity to volatile periods.
 
 
 ## Performance Metrics

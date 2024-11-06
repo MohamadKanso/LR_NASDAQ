@@ -6,11 +6,13 @@ This contains a Linear Regression trading model for predicting NASDAQ  movements
 
 This project uses the following libraries:
 
-- ![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg)
-- ![NumPy](https://numpy.org/doc/stable/_static/numpylogo.svg)
-- ![Matplotlib](https://matplotlib.org/_static/logo2_compressed.svg)
-- ![Scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
-- ![Seaborn](https://seaborn.pydata.org/_images/logo-wide-lightbg.svg) *(optional for visualisation)*
+<p align="center">
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="50">
+  <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" height="50">
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" height="50">
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50">
+  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" height="50">
+</p>
 
 
 
